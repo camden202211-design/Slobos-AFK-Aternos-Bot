@@ -3,10 +3,10 @@
   "bot-account": {
     "username": "Glowcraft",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "GlowcraftMC.aternos.me:15291",
+    "ip": "Glowcraftmc.aternos.me:15291",
     "port": 15291,
     "version": "",
     "try-creative": false
